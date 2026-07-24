@@ -1,4 +1,4 @@
-# BizEventBridge
+# BridgeUp
 
 A full-stack platform connecting **college event organizers** with **business
 sponsors** — browse events or sponsors, start a conversation, negotiate in
